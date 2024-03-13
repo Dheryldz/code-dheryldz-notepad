@@ -1,0 +1,19 @@
+{
+  "version": "0.1",
+  "name": "Stopwatch",
+  "description": "A simple stopwatch",
+  "launch_path": "/stopwatch/index.html",
+  "icons": {
+    "16": "/stopwatch/img/icons/stopwatch-16.png",
+    "48": "/stopwatch/img/icons/stopwatch-48.png",
+    "128": "/stopwatch/img/icons/stopwatch-128.png"
+  },
+  "developer": {
+    "name": "Your Name",
+    "url": "http://yourwebsite.com"
+  },
+  "installs_allowed_from": ["*"],
+  "locales": {
+  },
+  "default_locale": "en"
+}

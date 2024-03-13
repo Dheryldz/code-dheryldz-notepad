@@ -1,0 +1,32 @@
+{
+  "name": "code-dheryldz-notepad",
+  "version": "1.0.3",
+  "description": "notepad project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dheryldz/code-dheryldz-notepad.git"
+  },
+  "keywords": [
+    "notepad",
+    "dheryldz",
+    "beta"
+  ],
+  "author": "dheryldz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dheryldz/code-dheryldz-notepad/issues"
+  },
+  "homepage": "https://github.com/Dheryldz/code-dheryldz-notepad#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "dependencies": {
+    "code-mhammadiksan21-notepad": "^1.0.0",
+    "code-sbransyori": "^1.0.5",
+    "code-sbransyori-to-do-list": "^1.0.0"
+  }
+}
